@@ -1,0 +1,6 @@
+framework module freetype {
+  umbrella header "freetype-umbrella.h"
+
+  export *
+  module * { export * }
+}
